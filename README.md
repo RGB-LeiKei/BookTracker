@@ -13,5 +13,5 @@ java -cp "lib\\sqlite-jdbc-3.51.3.0.jar;src" Main
 Follow the further instructions that will "pop up" on the command prompt to continue for example: "Enter UserID:" etc.
 
 # THIS PROJECT WAS COOPERATION OF:
-Daniels Larionov,
+Daniels Larionovs,
 Rostyk Klevetenko
